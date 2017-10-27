@@ -62,7 +62,7 @@ def functionToAnnotateUsingTableDotAnnovar():
 ## IMP : Before running the script download the database and create a folder called humandb in folder where your annovar perl scripts are
 ## Put all databases in humandb
 ## Just check annovar's documentation for that
-## The way this script is know python script and perl script have to be in the same directory but we can modify that later to specify the path. I am not completely sure. We have to look into that.
+## The way this script is know python script and perl script have to be in the same directory.
 
 
 
