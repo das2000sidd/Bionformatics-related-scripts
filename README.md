@@ -31,6 +31,8 @@ The above script will download the file affyCytoScan.txt.gz and save it in your 
 
 
 Generate ped and map file from VCF file: (generatePedFile.py)
+
+
 This is a python script that generates ped and map file compatibe with plink from a VCF file with multiple samples. Since plink only accepts snps, it will exclude indels from the vcf in the generated ped and the map file.
 
 To run it type:
