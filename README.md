@@ -25,7 +25,7 @@ Download UCSC source file documentation: (downloadUCSChg19DatabaseFile.py)
 
 This python script can be used to download any hg19 based database from the UCSC downloads. It works for all file names of the format .txt.gz. Run the script as below:
 
-python3 downloadFileAsFunc.py --typeOfDatabase affyCytoScan
+python3 downloadUCSChg19DatabaseFile.py --typeOfDatabase affyCytoScan
 
 The above script will download the file affyCytoScan.txt.gz and save it in your current directory.
 
