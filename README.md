@@ -10,7 +10,7 @@ Above script annotates a vcf with gene and dbsnp135 annotation.
 python3 annovarUsingPython.py --vcf onlySixVariants.vcf --humandbDirPath ./humandb --buildver hg19 --out onlySixVariantsAnnotated --protocol esp6500ea --operation f --nastring .
 
 
-ABove script filters as per the esp6500ea database variant allele frequency.
+Above script filters as per the esp6500ea database variant allele frequency.
 
 ## IMP : Before running the script download the database and create a folder called humandb in folder where your annovar perl scripts are
 ## Put all databases in humandb
@@ -42,6 +42,6 @@ python3 generatePedFile.py --vcf myVcf.vcf --out myVcfPlinkFormat
 
 Analyse a VCF file: (vcfAnalyser.py)
 
-This is a python script that can be used to analyse a VCF file for some general information, as well as filter VCF file using various criterions. The various functionalities with sample scripts are in the word document.
+This is a python script that can be used to analyse a VCF file for some general information, as well as filter VCF file using various criterions. The various functionalities with sample scripts are in the word document titled VCF_Analyser_Documentation.docx.
 
 
