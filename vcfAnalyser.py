@@ -1126,4 +1126,4 @@ def returnSummaryOfTransitionAndTransversion():
 ## python3 vcfAnnotatorWithArgParse.py --vcf sampleChr1Chr10.vcf --getTsTv TsTv
 
 
-## Two functions needed of which one is to write filtered variants to VCF and statistics generation output to a file
+
